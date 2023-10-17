@@ -1,0 +1,25 @@
+@media(max-width: 425px){
+    main{
+        display: flex;
+        flex-direction: column;
+        padding: 0;
+        section{img{width: 20rem;
+            height: 20rem;  
+            border-radius: none;}}
+
+header{align-content: center;
+        justify-content: center;
+        overflow: hidden;}
+        #carouselExampleFade{height: 30rem;
+        img{height: 30rem;
+    }}
+    footer{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        justify-content: center;
+        }
+        iframe {width: 100%;
+        height: 30rem;}
+        
+}}

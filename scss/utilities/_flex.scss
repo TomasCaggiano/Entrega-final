@@ -1,0 +1,6 @@
+@mixin flex(){display: flex;
+    background-color: green($color: #00ff2a);
+    justify-content: center;
+    align-content: center;
+    color: blue;
+}
