@@ -5,6 +5,9 @@
   margin: 0;
   box-sizing: border-box; }
 
+main {
+  background-color: white; }
+
 .nav-wrapper {
   width: 100%;
   max-width: 1000px;
