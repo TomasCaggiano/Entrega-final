@@ -5,9 +5,6 @@
   margin: 0;
   box-sizing: border-box; }
 
-body {
-  background-image: linear-gradient(to bottom, #F5EEDC, #C0D8C0, #C0D8C0, #F5EEDC); }
-
 .nav-wrapper {
   width: 100%;
   max-width: 1000px;
